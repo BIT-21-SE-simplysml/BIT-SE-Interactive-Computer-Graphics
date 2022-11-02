@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\simplysml\Desktop\平台\平台\NS\image\DirectX11SourceCode\07 Lighting\07 Lighting(2019 Win10).exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\simplysml\Desktop\平台\平台\NS\image\DirectX11SourceCode\07 Lighting\HLSL\Light_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\simplysml\Desktop\平台\平台\NS\image\DirectX11SourceCode\07 Lighting\HLSL\Light_VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

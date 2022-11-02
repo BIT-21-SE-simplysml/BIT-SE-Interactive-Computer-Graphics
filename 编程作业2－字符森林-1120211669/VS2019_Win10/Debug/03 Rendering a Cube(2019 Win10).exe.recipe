@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\simplysml\Desktop\平台\平台\NS\image\编程作业2-字符森林-范例\编程作业2－字符森林-1120211669\03 Rendering a Cube(2019 Win10).exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\simplysml\Desktop\平台\平台\NS\image\编程作业2-字符森林-范例\编程作业2－字符森林-1120211669\HLSL\Cube_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\simplysml\Desktop\平台\平台\NS\image\编程作业2-字符森林-范例\编程作业2－字符森林-1120211669\HLSL\Cube_VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

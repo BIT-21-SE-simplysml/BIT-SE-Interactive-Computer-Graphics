@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\simplysml\Downloads\编程作业3-林中飞翔-范例\图形学作业4_马明阳\03 Rendering a Cube(2019 Win10).exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\simplysml\Downloads\编程作业3-林中飞翔-范例\图形学作业4_马明阳\HLSL\Cube_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\simplysml\Downloads\编程作业3-林中飞翔-范例\图形学作业4_马明阳\HLSL\Cube_VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

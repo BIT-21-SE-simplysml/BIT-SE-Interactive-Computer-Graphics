@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\simplysml\Desktop\编程作业1-你的名字-1120211669\03 Rendering a Cube\03 Rendering a Cube(2015 Win7).exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\simplysml\Desktop\编程作业1-你的名字-1120211669\03 Rendering a Cube\HLSL\Cube_PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\simplysml\Desktop\编程作业1-你的名字-1120211669\03 Rendering a Cube\HLSL\Cube_VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
